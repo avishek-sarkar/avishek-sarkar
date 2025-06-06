@@ -31,12 +31,4 @@
 
 ---
 
-## 🌐 Let's Connect
-
-- 📫 Email: `avishek1416@gmail.com`  
-- 🔗 LinkedIn: [linkedin.com/in/avishek--sarkar](https://www.linkedin.com/in/avishek--sarkar)  
-- 📘 Facebook: [facebook.com/avishek.sarkar01](https://www.facebook.com/avishek.sarkar01)
-
----
-
 > “I spend 90% of my coding time googling, 9% debugging, and 1% convincing myself it’s not my fault.”
