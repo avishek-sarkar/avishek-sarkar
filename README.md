@@ -5,7 +5,7 @@
 🧠 Passionate about AI, Research, and Making Code Work (mostly on the second try)  
 🤖 LFR Enthusiast — I brake for line-followers  
 🔍 Seeking opportunities in **Academia**, **R&D**, and **Software Engineering**  
-📚 Thesis: *Sleep Stage Classification – Trends & Future Directions*  
+📚 Thesis: **Sleep Stage Classification – Trends & Future Directions**  
 💼 Project: Building an AI-powered **Job Recommendation System** with hybrid resume parsing and semantic skill matching
 
 ---
