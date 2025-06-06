@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Avishek Sarkar
 
 🎓 Final-year Computer Science & Engineering student  
-💼 Senior Executive at **Mid Day Programming Club**  
+💼 Senior Executive at **Mid Day Programming Club, JKKNIU**  
 🧠 Passionate about AI, Research, and Making Code Work (mostly on the second try)  
 🤖 LFR Enthusiast — I brake for line-followers  
 🔍 Seeking opportunities in **Academia**, **R&D**, and **Software Engineering**  
