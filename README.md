@@ -1,34 +1,50 @@
-# 👋 Hi, I'm Avishek Sarkar
+# 👋 Hi, I’m Avishek Sarkar
 
-🎓 Final-year Computer Science & Engineering student  
-💼 Senior Executive at **Mid Day Programming Club, JKKNIU**  
-🧠 Passionate about AI, Research, and Making Code Work (mostly on the second try)  
-🤖 LFR Enthusiast — I brake for line-followers  
-🔍 Seeking opportunities in **Academia**, **R&D**, and **Software Engineering**  
-📚 Thesis: **Sleep Stage Classification – Trends & Future Directions**  
-💼 Project: Building an AI-powered **Job Recommendation System** with hybrid resume parsing and semantic skill matching
+🎓 **Final-year Computer Science & Engineering student**  
+💼 **Senior Executive**, Mid Day Programming Club, JKKNIU  
+🧠 Enthusiast in **AI**, **Research**, and Practical Problem-Solving  
+🤖 Passionate about **Robotics** — especially Line-Followers  
+🔍 Exploring opportunities in **Academia**, **R&D**, and **Software Engineering**  
+📚 **Thesis:** Sleep Stage Classification – Trends & Future Directions  
+💼 **Project:** AI-powered Job Recommendation System with hybrid resume parsing and semantic matching  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, C/C++, Java, SQL  
-- **AI/ML:** scikit-learn, spaCy, NLTK  
-- **Web:** Flask, Jinja, HTML/CSS, Bootstrap, PHP  
-- **Tools:** Git, VS Code, MySQL  
+- **Languages:** Python 🐍, C/C++ ⚙️, Java ☕, SQL 🗄️  
+- **AI/ML:** scikit-learn 🤖, spaCy 📚, NLTK 💬  
+- **Web:** Flask 🍰, Jinja2 🖼️, HTML/CSS 🎨, Bootstrap 📐, PHP 🐘  
+- **Tools:** Git 🧬, VS Code 🖥️, MySQL 🐬  
 
-> I also speak fluent `stack overflow` and occasionally debug by staring really hard at the screen.
+> Comfortable navigating both code-and-coffee-induced bugs.
 
 ---
 
 ## 📌 Featured Projects
 
-- 🚀 **Job Recommendation System** – AI + NLP based job matcher using TF-IDF + resume parsing (because developers need jobs 🙃)  
-- 🧠 **Sleep Stage Classifier** – Classifying ECG sleep signals using ML and signal processing (because engineers love to sleep 😴)  
-- 📱 **DengueGuard** – Android app for public awareness (because mosquitoes annoy developers 😤)  
-- 🧾 **Mobile Shop Inventory Management System** – A C-based console application to manage stock, sales, and invoices (because my supervisor said so 🙄)  
-- 🤖 **LFR Projects** – Several line-following robots that probably obey traffic laws better than humans  
+### 🚀 Job Recommendation System  
+An intelligent job matcher that reads your resume better than most recruiters.  
+- **Tech:** TF-IDF + hybrid resume parsing  
+- **Why:** Helps you find the perfect job before rent reminders kick in  
+
+### 🧠 Sleep Stage Classifier  
+Classifies sleep stages from ECG signals for healthcare and research.  
+- **Tech:** Signal processing + classic ML  
+- **Why:** Because sleep is more complicated than debugging at 2 AM  
+
+### 📱 DengueGuard  
+Android app for raising awareness and tracking dengue outbreaks.  
+- **Features:** Outbreak alerts · Prevention tips · Mosquito memes  
+
+### 🧾 Inventory Management System  
+Console app to manage stock, billing, and sales for small retailers.  
+- **Built in:** C (living dangerously)  
+
+### 🤖 LFR Robots  
+Line-following robots that obey instructions better than most people.  
+- **Tech:** IR sensors · PID control · Lots of trust in hardware  
 
 ---
 
-> “I spend 90% of my coding time googling, 9% debugging, and 1% convincing myself it’s not my fault.”
+> “I code, therefore I debug — sometimes with success, always with snacks.”  
