@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Avishek Sarkar
 
 🎓 Final-year Computer Science & Engineering student  
-💼 Senior Executive at *Mid Day Programming Club, JKKNIU*  
-🧠 Enthusiast in *AI*, *Research*, and *Practical Problem-Solving*  
-🤖 Passionate about *Robotics* — especially *Line-Followers*  
-🔍 Seeking opportunities in *Academia*, *R&D*, and *Software Engineering*  
-📚 Thesis: *Sleep Stage Classification – Trends & Future Directions*  
-💼 Project: AI-powered *Job Recommendation System* with hybrid resume parsing and semantic matching  
+💼 Senior Executive at **Mid Day Programming Club, JKKNIU**  
+🧠 Enthusiast in **AI**, **Research**, and **Practical Problem-Solving**  
+🤖 Passionate about **Robotics** — especially **Line-Followers**  
+🔍 Seeking opportunities in **Academia**, **R&D**, and **Software Engineering**  
+📚 Thesis: **Sleep Stage Classification – Trends & Future Directions**  
+💼 Project: AI-powered **Job Recommendation System** with hybrid resume parsing and semantic matching  
 
 ---
 
@@ -14,10 +14,10 @@
 
 | Category       | Technologies                             |
 | -------------- | ---------------------------------------- |
-| **Languages**  | Python · C/C++ · Java · SQL              |
-| **AI / ML**    | scikit-learn · spaCy · NLTK               |
-| **Web**        | Flask · Jinja2 · HTML/CSS · Bootstrap · PHP |
-| **Tools**      | Git · VS Code · MySQL                     |
+| **Languages**  | Python, C/C++, Java, SQL              |
+| **AI / ML**    | scikit-learn, spaCy, NLTK               |
+| **Web**        | Flask, Jinja2, HTML/CSS, Bootstrap, PHP |
+| **Tools**      | Git, VS Code, MySQL                     |
 
 > Comfortable navigating both code and coffee-induced bugs.
 
