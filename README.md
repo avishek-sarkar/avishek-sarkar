@@ -14,10 +14,10 @@
 
 | Category       | Technologies                             |
 | -------------- | ---------------------------------------- |
-| **Languages**  | Python, C/C++, Java, SQL              |
-| **AI / ML**    | scikit-learn, spaCy, NLTK               |
-| **Web**        | Flask, Jinja2, HTML/CSS, Bootstrap, PHP |
-| **Tools**      | Git, VS Code, MySQL                     |
+| **Languages**  | Python · C/C++ · Java · SQL              |
+| **AI / ML**    | scikit-learn · spaCy · NLTK               |
+| **Web**        | Flask · Jinja2 · HTML/CSS · Bootstrap · PHP |
+| **Tools**      | Git · VS Code · MySQL                     |
 
 > Comfortable navigating both code and coffee-induced bugs.
 
@@ -25,20 +25,15 @@
 
 ## 📌 Featured Projects
 
-- **Job Recommendation System**  
-  An intelligent job matcher that analyzes resumes and job posts using NLP and TF-IDF-based similarity
+- **Job Recommendation System** - An intelligent job matcher that analyzes resumes and job posts using NLP and TF-IDF-based similarity
 
-- **Sleep Stage Classifier**  
-  ML model to classify ECG-based sleep signals for healthcare and sleep research
+- **Sleep Stage Classifier** - ML model to classify ECG-based sleep signals for healthcare and sleep research
 
-- **DengueGuard**  
-  Android app for raising awareness and checking dengue symptoms
+- **DengueGuard** - Android app for raising awareness and checking dengue symptoms
 
-- **Mobile Shop Inventory Management System**  
-  C-based console application to handle stock, and sales for retail setups
+- **Mobile Shop Inventory Management System** - C-based console application to handle stock, and sales for retail setups
 
-- 🤖 **LFR Robots**  
-  Designed and built several line-following robots with sensor-driven control systems
+- 🤖 **LFR Robots** - Designed and built several line-following robots with sensor-driven control systems
 
 ---
 
