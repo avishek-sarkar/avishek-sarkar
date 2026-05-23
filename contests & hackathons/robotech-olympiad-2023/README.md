@@ -1,7 +1,7 @@
 # Robo Tech Olympiad 2023 - Line Following Robot Competition
 
 ## Overview
-Participated in the Line Following Robot (LFR) segment at Robo Tech Olympiad 2023 as part of the team JKKNIU CYBORGS. This was our first LFR contest experience.
+Participated in the Line Following Robot (LFR) segment at Robo Tech Olympiad 2023 as part of the team **JKKNIU CYBORGS**. This was our first LFR contest experience.
 
 ## Event Details
 | Item | Details |
@@ -24,6 +24,6 @@ Participated in the Line Following Robot (LFR) segment at Robo Tech Olympiad 202
 - Competed in the final round among the top 7 finalist teams.
 
 ## Attachments
-- [Certificate of Participation](robo-tech-olympiad-2023-cerficate.png)
+- [Certificate of Participation](robo-tech-olympiad-2023-certificate.png)
 
-![Robo Tech Olympiad 2023 Certificate](robo-tech-olympiad-2023-cerficate.png)
+![Robo Tech Olympiad 2023 Certificate](robo-tech-olympiad-2023-certificate.png)
