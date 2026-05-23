@@ -1,17 +1,17 @@
 # Robo Tech Olympiad 2023 - Line Following Robot Competition
 
 ## Overview
-Participated in the Line Following Robot (LFR) segment at Robo Tech Olympiad 2023 as part of the team **JKKNIU CYBORGS**. This was our first LFR contest experience.
+Participated in the **Line Following Robot (LFR)** segment at **Robo Tech Olympiad 2023** as part of the team **JKKNIU_CYBORGS**. This was our first LFR contest experience.
 
 ## Event Details
-| Item | Details |
+| Category | Details |
 | --- | --- |
 | Event | Robo Tech Olympiad 2023 |
 | Segment | Line Following Robot (LFR) |
 | Organizer | Robo Tech Valley |
-| Venue | Mawlana Bhashani Science and Technology University |
+| Venue | Mawlana Bhashani Science and Technology University (MBSTU) |
 | Date | February 2023 |
-| Team | JKKNIU CYBORGS |
+| Team | JKKNIU_CYBORGS |
 | Team Size | 5 members |
 
 ## Competition Format
@@ -24,6 +24,6 @@ Participated in the Line Following Robot (LFR) segment at Robo Tech Olympiad 202
 - Competed in the final round among the top 7 finalist teams.
 
 ## Attachments
-- [Certificate of Participation](robo-tech-olympiad-2023-certificate.png)
+- [Certificate of Participation](RoboTech_Olympiad_LFR_2023_Certificate.png)
 
-![Robo Tech Olympiad 2023 Certificate](robo-tech-olympiad-2023-certificate.png)
+![Robo Tech Olympiad 2023 Certificate](RoboTech_Olympiad_LFR_2023_Certificate.png)
