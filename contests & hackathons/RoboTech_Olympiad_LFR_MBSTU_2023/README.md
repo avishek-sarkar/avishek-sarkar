@@ -20,8 +20,8 @@ Participated in the **Line Following Robot (LFR)** segment at **Robo Tech Olympi
 - 7 teams qualified for the final round.
 
 ## Results
-- Qualified for the final round as the 2nd fastest team in preliminaries.
-- Competed in the final round among the top 7 finalist teams.
+- Qualified for the final round as **the 2nd fastest team** in preliminaries.
+- Competed in the final round among **the top 7 finalist teams**.
 
 ## Attachments
 - [Certificate of Participation](RoboTech_Olympiad_LFR_2023_Certificate.png)
