@@ -1,7 +1,7 @@
 # TechMind Hackathon 2025 - Project MealMate
 
 ## Overview
-Secured **4th Place** at the **TechMind Hackathon 2025** with project **MealMate**. The project addresses the daily challenge students face in finding and comparing affordable meal options by providing a platform for restaurant menus and a marketplace for homemade food.
+Secured **4th Place** at the **TechMind Hackathon 2025** out of 25 participating teams with project **MealMate**. The project addresses the daily challenge students face in finding and comparing affordable meal options by providing a platform for restaurant menus and a marketplace for homemade foods.
 
 ## Event Details
 | Category | Details |
@@ -29,7 +29,7 @@ Secured **4th Place** at the **TechMind Hackathon 2025** with project **MealMate
 - Tools: python-dotenv, Flask-CORS, SQLAlchemy ORM
 
 ## Results & Media
-- Position: **4th Place**
+- Position: **4th Place** out of 25 teams
 - GitHub Repository: [MealMate](https://github.com/avishek-sarkar/MealMate)
 
 ## Attachments
